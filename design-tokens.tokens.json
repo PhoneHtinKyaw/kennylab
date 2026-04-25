@@ -5,7 +5,7 @@
       "value": {
         "fontSize": 64,
         "textDecoration": "none",
-        "fontFamily": "Sora",
+        "fontFamily": "Urbanist",
         "fontWeight": 600,
         "fontStyle": "normal",
         "fontStretch": "normal",
@@ -27,7 +27,7 @@
       "value": {
         "fontSize": 32,
         "textDecoration": "none",
-        "fontFamily": "Sora",
+        "fontFamily": "Urbanist",
         "fontWeight": 600,
         "fontStyle": "normal",
         "fontStretch": "normal",
@@ -49,7 +49,7 @@
       "value": {
         "fontSize": 24,
         "textDecoration": "none",
-        "fontFamily": "Sora",
+        "fontFamily": "Urbanist",
         "fontWeight": 600,
         "fontStyle": "normal",
         "fontStretch": "normal",
@@ -71,7 +71,7 @@
       "value": {
         "fontSize": 20,
         "textDecoration": "none",
-        "fontFamily": "Sora",
+        "fontFamily": "Urbanist",
         "fontWeight": 600,
         "fontStyle": "normal",
         "fontStretch": "normal",
@@ -1598,7 +1598,7 @@
     "fontfamily": {
       "heading": {
         "type": "string",
-        "value": "Sora",
+        "value": "Urbanist",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
             "collection": "Core_Tokens",
@@ -3305,7 +3305,7 @@
       },
       "fontFamily": {
         "type": "string",
-        "value": "Sora"
+        "value": "Urbanist"
       },
       "fontWeight": {
         "type": "number",
@@ -3351,7 +3351,7 @@
       },
       "fontFamily": {
         "type": "string",
-        "value": "Sora"
+        "value": "Urbanist"
       },
       "fontWeight": {
         "type": "number",
@@ -3397,7 +3397,7 @@
       },
       "fontFamily": {
         "type": "string",
-        "value": "Sora"
+        "value": "Urbanist"
       },
       "fontWeight": {
         "type": "number",
@@ -3443,7 +3443,7 @@
       },
       "fontFamily": {
         "type": "string",
-        "value": "Sora"
+        "value": "Urbanist"
       },
       "fontWeight": {
         "type": "number",
