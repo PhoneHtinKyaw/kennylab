@@ -2192,7 +2192,7 @@
           "light": {
             "description": "",
             "type": "color",
-            "value": "{core_tokens.color.bright red-50}",
+            "value": "{core_tokens.color.green-300}",
             "extensions": {
               "org.lukasoppermann.figmaDesignTokens": {
                 "collection": "Semantic_Tokens",
@@ -2207,7 +2207,7 @@
           "default": {
             "description": "",
             "type": "color",
-            "value": "{core_tokens.color.bright red-500}",
+            "value": "{core_tokens.color.green-400}",
             "extensions": {
               "org.lukasoppermann.figmaDesignTokens": {
                 "collection": "Semantic_Tokens",
@@ -2222,7 +2222,7 @@
           "foreground": {
             "description": "",
             "type": "color",
-            "value": "{core_tokens.color.bright red-700}",
+            "value": "{core_tokens.color.green-500}",
             "extensions": {
               "org.lukasoppermann.figmaDesignTokens": {
                 "collection": "Semantic_Tokens",
